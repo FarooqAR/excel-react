@@ -1,0 +1,14 @@
+.withMargin{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.withPadding{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.centeredText{
+    text-align: center;
+}
+.table-hover>tbody>tr:hover{
+    background-color: rgba(0,0,0,0.2);
+}
